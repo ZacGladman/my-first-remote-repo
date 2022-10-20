@@ -13,3 +13,5 @@ This is a new branch. I love sports, chess and photography.
 Another change to the branch.
 
 I'm modifying this file using nano!
+
+Another change!
